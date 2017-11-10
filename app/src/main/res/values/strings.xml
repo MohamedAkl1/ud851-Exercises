@@ -15,4 +15,7 @@
   -->
 <resources>
     <string name="app_name">Github Query</string>
+    <string name="enter_a_query_then_click_search">enter a query then click search</string>
+    <string name="text_will_show_up_when_you_click_search">Text will show up when you click search</string>
+    <string name="start_searching">start searching</string>
 </resources>
